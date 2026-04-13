@@ -4,6 +4,11 @@ AegisWeb is a cybersecurity-focused web application that demonstrates secure aut
 
 ---
 
+## 🌐 Live Demo
+https://aegisweb-one.vercel.app/
+
+---
+
 ## Features
 
 - Secure User Authentication (bcrypt + JWT)
@@ -15,11 +20,6 @@ AegisWeb is a cybersecurity-focused web application that demonstrates secure aut
 - Activity Logs & Threat Monitoring
 - CSV Export of Logs
 - Password Strength Validation
-
----
-
-## 🌐 Live Demo
-https://aegisweb-one.vercel.app/
 
 ---
 
