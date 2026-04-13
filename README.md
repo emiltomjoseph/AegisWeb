@@ -18,6 +18,11 @@ AegisWeb is a cybersecurity-focused web application that demonstrates secure aut
 
 ---
 
+## 🌐 Live Demo
+https://aegisweb-one.vercel.app/
+
+---
+
 ## Project Objective
 
 The goal of AegisWeb is to demonstrate how modern web applications can implement core cybersecurity practices such as:
